@@ -5,8 +5,8 @@ export default function Home() {
   return (
     <Container className="md-container">
       <Head>
-        <title>ReactJS with react-bootstrap</title>
-        <link rel="icon" href="/favicon-32x32.png" />
+        <title>&lt;/designpig&gt;</title>
+        <link rel="icon" href="/favicon-32x32.ico" />
       </Head>
       <Container>
         <h1>
@@ -74,16 +74,7 @@ export default function Home() {
         </Container>
       </Container>
 
-      <footer className="cntr-footer">
-        <a
-          href="https://vercel.com?filter=next.js&utm_source=github&utm_medium=example&utm_campaign=next-example"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Powered by{' '}
-          <img src="/vercel.svg" alt="Vercel Logo" className="sml-logo" />
-        </a>
-      </footer>
+                                                                                                                                                                                                                                                     
     </Container>
   )
-}
+}                                                                                                                                                                                                                                                                                                                                                                                                                                   aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
