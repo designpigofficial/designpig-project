@@ -26,3 +26,12 @@
   margin-left: 10px;
 }
 
+.flex {
+  display: flex;
+  justify-content: space-between;
+}
+
+.navbar-items {
+  flex-direction: row;
+  margin-right: 0;
+}
